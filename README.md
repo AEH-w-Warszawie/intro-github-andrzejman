@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub zmieniony__+++
+# :wave: The Basics of GitHub zm
 
 ## 🤓 Course overview and learning outcomes 
 
